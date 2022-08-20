@@ -4,7 +4,7 @@ Hi 👋 My name is Zabu Kyaw
 Web Developer
 -------------
 
-My code journey start since 2016 and I am still willing to learn new technologies (which never end) and apply them in real life to make people more comfortable.
+My code journey start since 2016 and I am still willing to learn new technologies (which will never end) and apply them in real life to make our lives more comfortable.
 
 * 🌍  I'm based in Yangon, Myanmar (Burma)
 * ✉️  You can contact me at [zabukyaw99.mm@gmail.com](mailto:zabukyaw99.mm@gmail.com)
