@@ -7,7 +7,7 @@ Developer
 My code journey start since 2016 and I am still willing to learn new technologies (which will never end) and apply them in real life to make our lives better.
 
 * 🌍  I'm based in Yangon, Myanmar (Burma)
-* ✉️  You can contact me at [zabukyaw99.mm@gmail.com](mailto:zabukyaw@hotmail.com)
+* ✉️  You can contact me at [zabukyaw@hotmail.com](mailto:zabukyaw@hotmail.com)
 * 🤝  I'm open to collaborating on Web Application Development, Data Science works
 * ⚡  I have many hidden talents which I don't know because they are hidden.
 
